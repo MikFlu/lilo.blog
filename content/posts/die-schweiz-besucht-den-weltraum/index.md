@@ -4,14 +4,15 @@ date = "2024-04-26"
 draft = false
 pinned = true
 +++
-###Überschrift 2
-Die Schweiz besucht den Weltraum
-
-
+## Die Schweiz besucht den Weltraum
 
 Die Beteiligung der Universität Bern an der internationalen Raumfahrt
 
+{{<lead>}}
+
 Die Schweiz als eher kleines Land hat eine wichtige Rolle in der internationalen Weltraumforschung. Mit verschiedenen Messinstrumenten beteiligt sich die Universität Bern öfters an Projekten der NASA oder ESA. Durch diese Projekte wird Neues entdeckt und werden neue Grenzen erforscht.
+
+{{<lead>}}
 
 An einem warmen Nachmittag im Februar 2024 nach einer ruhigen Busfahrt werden wir freundlich von Linus Stöckli in der Eingangshalle des physikalischen Instituts der Universität Bern begrüsst. Linus Stöckli selbst ist Doktorand und arbeitet seit längerem am Institut. Mit seinen Projekten beteiligt er sich auch an der Raumfahrtforschung. Schon nach kurzem Kontakt via E-Mail war er bereit, eine Besichtigung des physikalischen Instituts zu ermöglichen. Nach flüchtigem Austausch begann er mit der Führung. Am Fenster der Eingangshalle stehen bereits Modelle von bisherigen Weltraummissionen, welche teils mehrere Jahrzehnte alt sind. An der Wand hängen Bilder von Teleskopen und in der Luft liegt der Geruch von alten Büchern und Erfindergeist. Im Gang sind weitere Instrumente der Universität Bern ausgestellt. Diese werden in den Laboren und den Werkhöfen angefertigt. Jede Entwicklung eines dieser Instrumente beansprucht viel Zeit und grossen Aufwand.
 
