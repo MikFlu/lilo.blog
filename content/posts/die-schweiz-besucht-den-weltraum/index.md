@@ -26,8 +26,7 @@ Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwi
 
 {{<box>}}
 
-##### 
-Das JUICE-Projekt
+##### Das JUICE-Projekt
 
 Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente, welche unter dem JUICE-Projekt zum Jupiter fliegen. Die Mission dient der Untersuchung der drei Eismonde: Europa, Ganymed, Callisto.
 
@@ -44,8 +43,7 @@ Die erste Hürde, die es zu nehmen gilt, ist bereits das Auswahlverfahren, um ü
 
 {{<box>}}
 
-##### 
-Das LIMS:
+##### Das LIMS:
 
 Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der
 
