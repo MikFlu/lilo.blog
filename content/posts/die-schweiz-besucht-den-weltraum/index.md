@@ -4,8 +4,6 @@ date = "2024-04-26"
 draft = false
 pinned = true
 +++
-## Die Schweiz besucht den Weltraum
-
 Die Beteiligung der Universität Bern an der internationalen Raumfahrt
 
 {{<lead>}}
@@ -20,17 +18,14 @@ Als erstes geht es die Treppe hinauf, wo Linus das Sonnenwindsegel präsentiert.
 
 Nach dem Besichtigen des Sonnenwindsegels geht es zurück in die grosse Eingangshalle. Dort sind Repliken von verschiedenen Weltraumprojekten ausgestellt, bei denen die Universität Bern mitgeholfen hat. Eines dieser Projekte ist das CHEOPS-Teleskop, welches seit 2019 in der Erdumlaufbahn kreist. Linus Stöckli erklärt, dass Projekte oftmals verlängert werden und so wie das CHEOPS noch immer in Betrieb sind. Die Besonderheit sei, dass dieses Teleskop vollständig von der Universität Bern hergestellt wurde und noch immer von der ESA (European Space agency) betrieben werde. Seit vielen Jahren liefert das Teleskop faszinierende Bilder von Exoplaneten und untersucht diese auf Leben.
 
-#### JUICE:
+#### Das JUICE-Projekt:
 
 Linus Stöckli führt uns weiter durch den Gang. Er zeigt und erklärt auch neuere Projekte, wie etwa das Juice-Projekt. In der Ausstellung sind verschiedene Modelle des NIMs und weiterer Projekte zu sehen. Zudem wird in einem Video die Herstellung eines solchen Messinstrumentes veranschaulicht und das Vorangehen der Mission nähergebracht.
 
 Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwickeln aufgrund des knappen Platzes und der Gewichtvorgaben. Zudem müsse das Instrument sehr robust und geschützt vor hohen Vibrationen sein. Ebenso dürfe die Technik nicht durch kosmische Strahlung beeinflusst werden, was ihre Herstellung sehr teuer macht.
 
 {{<box>}}
-
-
-
-
+Das JUICE-Projekt
 
 Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente, welche unter dem JUICE-Projekt zum Jupiter fliegen. Die Mission dient der Untersuchung der drei Eismonde: Europa, Ganymed, Callisto.
 
@@ -46,6 +41,7 @@ Das physikalische Institut der Universität Bern wird von Dr. Peter Wurz als Dir
 Die erste Hürde, die es zu nehmen gilt, ist bereits das Auswahlverfahren, um überhaupt an der Mission teilnehmen zu können. Dr. Wurz erklärt, es gebe in der Konkurrenz gegen andere Länder für die Teilnahme an Expeditionen keinen zweiten Platz. Entweder man sei dabei oder nicht. Deshalb müsse man sich durch Modelle und innovative Ideen bei der Raumfahrtagentur gut „verkaufen“.
 
 {{<box>}}
+Das LIMS:
 Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der
 
 Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
