@@ -69,8 +69,12 @@ Trotzdem wird nach Leben gesucht und gemäss Peter Wurz spricht man dabei von se
 
 Die Erforschung des Weltraums hat ihren Preis und muss finanziert werden. An der Finanzierung beteiligen sich gemäss Linus verschiedene Geldgeber. Meistens werde die Arbeit von der NASA oder ESA, sowie dem Schweizerischen Nationalfonds SNF und dem Bund finanziert. Jedoch seien nicht alle Kosten damit gedeckt und die Universität müsse zum Beispiel die Löhne der Angestellten bezahlen. Nicht nur aus der Sicht der Universität Bern ist die Weltraumforschung wichtig, auch der SNF findet diese einer der wichtigsten Fortschritte in der modernen Wissenschaft. Die Beteiligung in der Weltraumforschung stützt, gemäss dem SNF, die lokale Wirtschaft, schafft Arbeitsplätze und fördert die Wettbewerbsfähigkeit. Zudem diene die Weltraumforschung nicht nur der Wissenschaft, sondern unterstütze auch Bedürfnisse im Alltag, etwa durch Satellitenkommunikation und Wettervorhersagen oder die Navigation durch Satelliten. Der SNF unterstützt Projekte der Universität hauptsächlich durch den MARVIS-Fonds, welcher gegründet wurde, um genau solche Projekte finanziell zu fördern.
 
-Infobox SNF:
 {{<box>}}
+
+##### 
+Der SNF
+
+
 Der SNF oder auch Schweizerische Nationalfonds ist eine staatliche Organisation vom Bund. Gegründet wurde der SNF am 1. August 1952, jedoch gab es schon früher Bemühungen vom Staat für eine Organisation, um Projekte mit Fördergeldern zu unterstützen. Die Pläne wurden aber aufgrund des Zweiten Weltkriegs eingestellt und erst in der Nachkriegszeit wieder aufgenommen. Der SNF unterstützt seitdem landesweit Projekte im Bereich der Forschung und Wissenschaft. Die Organisation besass im Jahr 2023 ein Budget von 1167 Mio. Schweizer Franken. Der SNF hat viele verschiedene Förderinstrumente, welche sich jeweils auf verschiedene Forschungsrichtungen fokussieren, darunter auch das Förderinstrument MARVIS, welches genutzt wird, um Weltraumprojekte zu finanzieren, so wie zum Beispiel CHEOPS oder die JUICE Mission.
 {{</box>}}
 
