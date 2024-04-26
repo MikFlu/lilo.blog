@@ -33,20 +33,22 @@ Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwi
 
 ![Modell des NIM ©️Mike Flückiger](microsoftteams-image-6-.png)
 
+{{<box>}}
+
+##### Die CLPS-Mission:
+
+Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der
+
+Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
+{{</box>}}
+
 #### Risiken der Weltraumforschung:
 
 Das physikalische Institut der Universität Bern wird von Dr. Peter Wurz als Direktor geleitet. In seiner Funktion übernimmt er jedoch nicht nur administrative Aufgaben, sondern beteiligt sich selbst auch an Projekten. Derzeit ist er als Projektleiter des LIMS zuständig. Das Massenspektrometer dieser Mission verwendet eine Messtechnik, welche noch nie zuvor im Weltall eingesetzt wurde. Das wirft die Frage nach dem damit verbundenen erhöhten Risiko auf. „Unser ganzes Geschäft ist Risiko“ so Peter Wurz. Er fügt an, das Risiko fange schon beim Start an, da die Rakete explodieren könne. Üblicherweise haben Raketen eine hohe Erfolgsrate. Wenn man nun jedoch mit einem neuen Typen anfange, startet man bei Null und die ersten Versuche können schiefgehen. In Bezug auf die neue Messtechnik habe er aber keine grossen Bedenken.
 
 Die erste Hürde, die es zu nehmen gilt, ist bereits das Auswahlverfahren, um überhaupt an der Mission teilnehmen zu können. Dr. Wurz erklärt, es gebe in der Konkurrenz gegen andere Länder für die Teilnahme an Expeditionen keinen zweiten Platz. Entweder man sei dabei oder nicht. Deshalb müsse man sich durch Modelle und innovative Ideen bei der Raumfahrtagentur gut „verkaufen“.
 
-{{<box>}}
 
-##### Das LIMS:
-
-Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der
-
-Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
-{{</box>}}
 
 #### Probleme der Weltraumforschung:
 
@@ -56,7 +58,11 @@ Zum Thema der Weltraumverschmutzung sagt Peter Wurz weiter, schlimmer seien die 
 
 Zudem erklärt Peter Wurz, dass es die Schweizer Firma „Clear Space“ gebe, welche Teile aus ihrer Umlaufbahn um die Erde, Orbit, in die Atmosphäre transportieren, wo diese verglühen und als Staub auf die Erdoberfläche fallen. Eine andere Möglichkeit wäre, die Teile ins Weltall zu befördern und sie dem „nächsten Nachbarn“ zu übergeben.
 
-Ausstellung von Bildern des Mondes in der Universität Bern ©️ Lukas Müller
+
+
+![Ausstellung von Bildern des Mondes in der Universität Bern ©️ Lukas Müllers](bild-3-.jpg)
+
+
 
 #### Hoffnung auf Leben:
 
@@ -66,16 +72,18 @@ zweites Zuhause ist völlig unrealistisch. Zumindest nicht in unserem Sonnensyst
 
 Trotzdem wird nach Leben gesucht und gemäss Peter Wurz spricht man dabei von sehr kleinem einzelligem Leben, welches Rückstände auf dem Mars oder einem Mond, wie Europa, hätte hinterlassen können. Deshalb versucht man mit Bohrungen in Eis- oder Gesteinsschichten Rückstände aufzudecken und diese zu analysieren. Zudem verwendet man Teleskope, um weit entfernte Planeten zu erforschen. So erklärt Peter Wurz: „Mit dem Teleskop sieht man die äusserste Atmosphäre, wo man Spurenelemente in der Atmosphäre findet, also chemische Zusammensetzungen, die aussagen, ob es Leben gibt oder nicht.“
 
+{{<box>}}
+
+##### Schweizerische Nationalfonds
+
+Der SNF oder auch Schweizerische Nationalfonds ist eine staatliche Organisation vom Bund. Gegründet wurde der SNF am 1. August 1952, jedoch gab es schon früher Bemühungen vom Staat für eine Organisation, um Projekte mit Fördergeldern zu unterstützen. Die Pläne wurden aber aufgrund des Zweiten Weltkriegs eingestellt und erst in der Nachkriegszeit wieder aufgenommen. Der SNF unterstützt seitdem landesweit Projekte im Bereich der Forschung und Wissenschaft. Die Organisation besass im Jahr 2023 ein Budget von 1167 Mio. Schweizer Franken. Der SNF hat viele verschiedene Förderinstrumente, welche sich jeweils auf verschiedene Forschungsrichtungen fokussieren, darunter auch das Förderinstrument MARVIS, welches genutzt wird, um Weltraumprojekte zu finanzieren, so wie zum Beispiel CHEOPS oder die JUICE Mission.
+{{</box>}}
+
 #### Finanzierung:
 
 Die Erforschung des Weltraums hat ihren Preis und muss finanziert werden. An der Finanzierung beteiligen sich gemäss Linus verschiedene Geldgeber. Meistens werde die Arbeit von der NASA oder ESA, sowie dem Schweizerischen Nationalfonds SNF und dem Bund finanziert. Jedoch seien nicht alle Kosten damit gedeckt und die Universität müsse zum Beispiel die Löhne der Angestellten bezahlen. Nicht nur aus der Sicht der Universität Bern ist die Weltraumforschung wichtig, auch der SNF findet diese einer der wichtigsten Fortschritte in der modernen Wissenschaft. Die Beteiligung in der Weltraumforschung stützt, gemäss dem SNF, die lokale Wirtschaft, schafft Arbeitsplätze und fördert die Wettbewerbsfähigkeit. Zudem diene die Weltraumforschung nicht nur der Wissenschaft, sondern unterstütze auch Bedürfnisse im Alltag, etwa durch Satellitenkommunikation und Wettervorhersagen oder die Navigation durch Satelliten. Der SNF unterstützt Projekte der Universität hauptsächlich durch den MARVIS-Fonds, welcher gegründet wurde, um genau solche Projekte finanziell zu fördern.
 
-{{<box>}}
 
-##### Der SNF
-
-Der SNF oder auch Schweizerische Nationalfonds ist eine staatliche Organisation vom Bund. Gegründet wurde der SNF am 1. August 1952, jedoch gab es schon früher Bemühungen vom Staat für eine Organisation, um Projekte mit Fördergeldern zu unterstützen. Die Pläne wurden aber aufgrund des Zweiten Weltkriegs eingestellt und erst in der Nachkriegszeit wieder aufgenommen. Der SNF unterstützt seitdem landesweit Projekte im Bereich der Forschung und Wissenschaft. Die Organisation besass im Jahr 2023 ein Budget von 1167 Mio. Schweizer Franken. Der SNF hat viele verschiedene Förderinstrumente, welche sich jeweils auf verschiedene Forschungsrichtungen fokussieren, darunter auch das Förderinstrument MARVIS, welches genutzt wird, um Weltraumprojekte zu finanzieren, so wie zum Beispiel CHEOPS oder die JUICE Mission.
-{{</box>}}
 
 Die Raumfahrt wird uns und zukünftige Generationen weiter begleiten. Solange der Erfindergeist und die Begeisterung des Menschen für den Weltraum bestehen, werden auch weitere Erfolge erzielt werden. Die Beteiligung der Schweiz an der Raumfahrt ist auch schon für die Zukunft gesichert. Mit der Unterschrift von Guy Parmelin unter das Artemis-
 
