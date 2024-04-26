@@ -32,13 +32,11 @@ Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwi
 
 
 
-
 Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente, welche unter dem JUICE-Projekt zum Jupiter fliegen. Die Mission dient der Untersuchung der drei Eismonde: Europa, Ganymed, Callisto.
 
 Am 14. Mai 2023 war es endlich so weit und die ESA konnte einen weiteren erfolgreichen Start einer Mission feiern.
 
 (JUICE = Jupiter Icy Moons Explorer)
-
 {{</box>}}
 
 #### Risiken der Weltraumforschung:
