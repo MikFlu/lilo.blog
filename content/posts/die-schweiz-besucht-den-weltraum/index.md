@@ -9,28 +9,29 @@ pinned = true
 Die Beteiligung der Universität Bern an der internationalen Raumfahrt
 
 {{<lead>}}
-
 Die Schweiz als eher kleines Land hat eine wichtige Rolle in der internationalen Weltraumforschung. Mit verschiedenen Messinstrumenten beteiligt sich die Universität Bern öfters an Projekten der NASA oder ESA. Durch diese Projekte wird Neues entdeckt und werden neue Grenzen erforscht.
-
-{{<lead>}}
+{{</lead>}}
 
 An einem warmen Nachmittag im Februar 2024 nach einer ruhigen Busfahrt werden wir freundlich von Linus Stöckli in der Eingangshalle des physikalischen Instituts der Universität Bern begrüsst. Linus Stöckli selbst ist Doktorand und arbeitet seit längerem am Institut. Mit seinen Projekten beteiligt er sich auch an der Raumfahrtforschung. Schon nach kurzem Kontakt via E-Mail war er bereit, eine Besichtigung des physikalischen Instituts zu ermöglichen. Nach flüchtigem Austausch begann er mit der Führung. Am Fenster der Eingangshalle stehen bereits Modelle von bisherigen Weltraummissionen, welche teils mehrere Jahrzehnte alt sind. An der Wand hängen Bilder von Teleskopen und in der Luft liegt der Geruch von alten Büchern und Erfindergeist. Im Gang sind weitere Instrumente der Universität Bern ausgestellt. Diese werden in den Laboren und den Werkhöfen angefertigt. Jede Entwicklung eines dieser Instrumente beansprucht viel Zeit und grossen Aufwand.
 
 Als erstes geht es die Treppe hinauf, wo Linus das Sonnenwindsegel präsentiert. Die Geschichte der Raumforschung der Universität Bern beginnt schon früh: im Jahre 1969 mit der Apollo 11 Mission. Nach dem Betreten des Mondes durch Neil Armstrong stellte der zweite Astronaut, Buzz Aldrin, noch vor der amerikanischen Flagge das Berner Sonnenwindsegel auf. So erzählt Linus die stolze Geschichte der Berner Raumfahrt.
 
-CHEOPS:
+#### CHEOPS:
 
 Nach dem Besichtigen des Sonnenwindsegels geht es zurück in die grosse Eingangshalle. Dort sind Repliken von verschiedenen Weltraumprojekten ausgestellt, bei denen die Universität Bern mitgeholfen hat. Eines dieser Projekte ist das CHEOPS-Teleskop, welches seit 2019 in der Erdumlaufbahn kreist. Linus Stöckli erklärt, dass Projekte oftmals verlängert werden und so wie das CHEOPS noch immer in Betrieb sind. Die Besonderheit sei, dass dieses Teleskop vollständig von der Universität Bern hergestellt wurde und noch immer von der ESA (European Space agency) betrieben werde. Seit vielen Jahren liefert das Teleskop faszinierende Bilder von Exoplaneten und untersucht diese auf Leben.
 
-(evtl. Bild)
-
-JUICE:
+#### JUICE:
 
 Linus Stöckli führt uns weiter durch den Gang. Er zeigt und erklärt auch neuere Projekte, wie etwa das Juice-Projekt. In der Ausstellung sind verschiedene Modelle des NIMs und weiterer Projekte zu sehen. Zudem wird in einem Video die Herstellung eines solchen Messinstrumentes veranschaulicht und das Vorangehen der Mission nähergebracht.
 
 Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwickeln aufgrund des knappen Platzes und der Gewichtvorgaben. Zudem müsse das Instrument sehr robust und geschützt vor hohen Vibrationen sein. Ebenso dürfe die Technik nicht durch kosmische Strahlung beeinflusst werden, was ihre Herstellung sehr teuer macht.
 
-Infobox:
+{{<box>}}
+
+
+
+
+
 
 Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente, welche unter dem JUICE-Projekt zum Jupiter fliegen. Die Mission dient der Untersuchung der drei Eismonde: Europa, Ganymed, Callisto.
 
@@ -38,7 +39,9 @@ Am 14. Mai 2023 war es endlich so weit und die ESA konnte einen weiteren erfolgr
 
 (JUICE = Jupiter Icy Moons Explorer)
 
-Risiken der Weltraumforschung:
+{{</box>}}
+
+#### Risiken der Weltraumforschung:
 
 Das physikalische Institut der Universität Bern wird von Dr. Peter Wurz als Direktor geleitet. In seiner Funktion übernimmt er jedoch nicht nur administrative Aufgaben, sondern beteiligt sich selbst auch an Projekten. Derzeit ist er als Projektleiter des LIMS zuständig. Das Massenspektrometer dieser Mission verwendet eine Messtechnik, welche noch nie zuvor im Weltall eingesetzt wurde. Das wirft die Frage nach dem damit verbundenen erhöhten Risiko auf. „Unser ganzes Geschäft ist Risiko“ so Peter Wurz. Er fügt an, das Risiko fange schon beim Start an, da die Rakete explodieren könne. Üblicherweise haben Raketen eine hohe Erfolgsrate. Wenn man nun jedoch mit einem neuen Typen anfange, startet man bei Null und die ersten Versuche können schiefgehen. In Bezug auf die neue Messtechnik habe er aber keine grossen Bedenken.
 
@@ -50,7 +53,7 @@ Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS
 
 Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
 
-Probleme der Weltraumforschung:
+#### Probleme der Weltraumforschung:
 
 Häufige Fragen der Raumforschung sind natürlich auch die Umweltbelastung und die Verschmutzung des Alls durch Bruchstücke von Raketen und Satelliten. Zu diesen Problemen und den passenden Lösungsansätzen fügt Peter Wurz an, es sei klar, dass die Rakete am Start viel Treibstoff verbrauche. Dabei werden kurzzeitig mehrere hundert Tonnen Treibstoff verbrannt. Jedoch sei die Umweltbelastung von all den Schaulustigen, die zum Start hinfliegen oder hinfahren, zehnmal so gross. Somit sei der alltägliche Verbrauch mit Autos und Flugzeugen viel grösser als die wenigen Raketenstarts.
 
@@ -60,7 +63,7 @@ Zudem erklärt Peter Wurz, dass es die Schweizer Firma „Clear Space“ gebe, w
 
 Ausstellung von Bildern des Mondes in der Universität Bern ©️ Lukas Müller
 
-Hoffnung auf Leben:
+#### Hoffnung auf Leben:
 
 Die Suche nach Leben ist seit dem Beginn der Weltraumforschung eine herausfordernde Mission. Dabei braucht ein Planet bestimmte Eigenschaften, um dieses Leben, wenn auch nur einzellig, zu versorgen. Diese Eigenschaften sind sehr selten und wenn sie existieren, nicht zwingend für den Menschen geeignet. Zu der Frage, ob es ein zweites Zuhause für die Menschen geben könnte, antwortet Peter Wurz, wie bereits erwartet, mit Folgendem: «Ein
 
@@ -68,7 +71,7 @@ zweites Zuhause ist völlig unrealistisch. Zumindest nicht in unserem Sonnensyst
 
 Trotzdem wird nach Leben gesucht und gemäss Peter Wurz spricht man dabei von sehr kleinem einzelligem Leben, welches Rückstände auf dem Mars oder einem Mond, wie Europa, hätte hinterlassen können. Deshalb versucht man mit Bohrungen in Eis- oder Gesteinsschichten Rückstände aufzudecken und diese zu analysieren. Zudem verwendet man Teleskope, um weit entfernte Planeten zu erforschen. So erklärt Peter Wurz: „Mit dem Teleskop sieht man die äusserste Atmosphäre, wo man Spurenelemente in der Atmosphäre findet, also chemische Zusammensetzungen, die aussagen, ob es Leben gibt oder nicht.“
 
-Finanzierung:
+#### Finanzierung:
 
 Die Erforschung des Weltraums hat ihren Preis und muss finanziert werden. An der Finanzierung beteiligen sich gemäss Linus verschiedene Geldgeber. Meistens werde die Arbeit von der NASA oder ESA, sowie dem Schweizerischen Nationalfonds SNF und dem Bund finanziert. Jedoch seien nicht alle Kosten damit gedeckt und die Universität müsse zum Beispiel die Löhne der Angestellten bezahlen. Nicht nur aus der Sicht der Universität Bern ist die Weltraumforschung wichtig, auch der SNF findet diese einer der wichtigsten Fortschritte in der modernen Wissenschaft. Die Beteiligung in der Weltraumforschung stützt, gemäss dem SNF, die lokale Wirtschaft, schafft Arbeitsplätze und fördert die Wettbewerbsfähigkeit. Zudem diene die Weltraumforschung nicht nur der Wissenschaft, sondern unterstütze auch Bedürfnisse im Alltag, etwa durch Satellitenkommunikation und Wettervorhersagen oder die Navigation durch Satelliten. Der SNF unterstützt Projekte der Universität hauptsächlich durch den MARVIS-Fonds, welcher gegründet wurde, um genau solche Projekte finanziell zu fördern.
 
