@@ -25,6 +25,8 @@ Linus Stöckli führt uns weiter durch den Gang. Er zeigt und erklärt auch neue
 Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwickeln aufgrund des knappen Platzes und der Gewichtvorgaben. Zudem müsse das Instrument sehr robust und geschützt vor hohen Vibrationen sein. Ebenso dürfe die Technik nicht durch kosmische Strahlung beeinflusst werden, was ihre Herstellung sehr teuer macht.
 
 {{<box>}}
+
+##### 
 Das JUICE-Projekt
 
 Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente, welche unter dem JUICE-Projekt zum Jupiter fliegen. Die Mission dient der Untersuchung der drei Eismonde: Europa, Ganymed, Callisto.
@@ -41,7 +43,11 @@ Das physikalische Institut der Universität Bern wird von Dr. Peter Wurz als Dir
 Die erste Hürde, die es zu nehmen gilt, ist bereits das Auswahlverfahren, um überhaupt an der Mission teilnehmen zu können. Dr. Wurz erklärt, es gebe in der Konkurrenz gegen andere Länder für die Teilnahme an Expeditionen keinen zweiten Platz. Entweder man sei dabei oder nicht. Deshalb müsse man sich durch Modelle und innovative Ideen bei der Raumfahrtagentur gut „verkaufen“.
 
 {{<box>}}
+
+##### 
 Das LIMS:
+
+
 Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der
 
 Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
