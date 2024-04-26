@@ -71,9 +71,7 @@ Die Erforschung des Weltraums hat ihren Preis und muss finanziert werden. An der
 
 {{<box>}}
 
-##### 
-Der SNF
-
+##### Der SNF
 
 Der SNF oder auch Schweizerische Nationalfonds ist eine staatliche Organisation vom Bund. Gegründet wurde der SNF am 1. August 1952, jedoch gab es schon früher Bemühungen vom Staat für eine Organisation, um Projekte mit Fördergeldern zu unterstützen. Die Pläne wurden aber aufgrund des Zweiten Weltkriegs eingestellt und erst in der Nachkriegszeit wieder aufgenommen. Der SNF unterstützt seitdem landesweit Projekte im Bereich der Forschung und Wissenschaft. Die Organisation besass im Jahr 2023 ein Budget von 1167 Mio. Schweizer Franken. Der SNF hat viele verschiedene Förderinstrumente, welche sich jeweils auf verschiedene Forschungsrichtungen fokussieren, darunter auch das Förderinstrument MARVIS, welches genutzt wird, um Weltraumprojekte zu finanzieren, so wie zum Beispiel CHEOPS oder die JUICE Mission.
 {{</box>}}
@@ -81,6 +79,8 @@ Der SNF oder auch Schweizerische Nationalfonds ist eine staatliche Organisation 
 Die Raumfahrt wird uns und zukünftige Generationen weiter begleiten. Solange der Erfindergeist und die Begeisterung des Menschen für den Weltraum bestehen, werden auch weitere Erfolge erzielt werden. Die Beteiligung der Schweiz an der Raumfahrt ist auch schon für die Zukunft gesichert. Mit der Unterschrift von Guy Parmelin unter das Artemis-
 
 Abkommen verpflichtet sich die Schweiz mit 35 anderen Staaten an der friedlichen Erforschung des Weltraums. Somit wird die Arbeit des physikalischen Instituts auch in Zukunft relevant sein. Wie auch Peter Wurz erwähnte, ist die Weltraumforschung nicht unmittelbar wichtig für das alltägliche Leben, jedoch ist sie ein riesiger Entwicklungsschritt für den Menschen und sie hat eine grosse philosophische Bedeutung. Man kann also gespannt sein, was die Zukunft für Überraschungen bringen wird.
+
+- - -
 
 Quellen: https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html
 
