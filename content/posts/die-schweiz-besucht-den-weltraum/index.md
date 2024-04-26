@@ -14,7 +14,7 @@ An einem warmen Nachmittag im Februar 2024 nach einer ruhigen Busfahrt werden wi
 
 ![Ausgestelltes Sonnenwindsegel (Nachbau) ©️ Mike Flückiger](microsoftteams-image-2-1-.png)
 
-#### CHEOPS:
+#### CHEOPS
 
 Nach dem Besichtigen des Sonnenwindsegels geht es zurück in die grosse Eingangshalle. Dort sind Repliken von verschiedenen Weltraumprojekten ausgestellt, bei denen die Universität Bern mitgeholfen hat. Eines dieser Projekte ist das CHEOPS-Teleskop, welches seit 2019 in der Erdumlaufbahn kreist. Linus Stöckli erklärt, dass Projekte oftmals verlängert werden und so wie das CHEOPS noch immer in Betrieb sind. Die Besonderheit sei, dass dieses Teleskop vollständig von der Universität Bern hergestellt wurde und noch immer von der ESA (European Space agency) betrieben werde. Seit vielen Jahren liefert das Teleskop faszinierende Bilder von Exoplaneten und untersucht diese auf Leben.
 
@@ -25,7 +25,7 @@ Nach dem Besichtigen des Sonnenwindsegels geht es zurück in die grosse Eingangs
 Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente, welche unter dem JUICE-Projekt zum Jupiter fliegen. Die Mission dient der Untersuchung der drei Eismonde: Europa, Ganymed, Callisto. Am 14. Mai 2023 war es endlich so weit und die ESA konnte einen weiteren erfolgreichen Start einer Mission feiern. (JUICE = Jupiter Icy Moons Explorer)
 {{</box>}}
 
-#### JUICE:
+#### JUICE
 
 Linus Stöckli führt uns weiter durch den Gang. Er zeigt und erklärt auch neuere Projekte, wie etwa das Juice-Projekt. In der Ausstellung sind verschiedene Modelle des NIMs und weiterer Projekte zu sehen. Zudem wird in einem Video die Herstellung eines solchen Messinstrumentes veranschaulicht und das Vorangehen der Mission nähergebracht.
 
@@ -35,14 +35,14 @@ Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwi
 
 {{<box>}}
 
-##### Die CLPS-Mission:
+##### Die CLPS-Mission
 
 Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der
 
 Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
 {{</box>}}
 
-#### Risiken der Weltraumforschung:
+#### Risiken der Weltraumforschung
 
 Das physikalische Institut der Universität Bern wird von Dr. Peter Wurz als Direktor geleitet. In seiner Funktion übernimmt er jedoch nicht nur administrative Aufgaben, sondern beteiligt sich selbst auch an Projekten. Derzeit ist er als Projektleiter des LIMS zuständig. Das Massenspektrometer dieser Mission verwendet eine Messtechnik, welche noch nie zuvor im Weltall eingesetzt wurde. Das wirft die Frage nach dem damit verbundenen erhöhten Risiko auf. „Unser ganzes Geschäft ist Risiko“ so Peter Wurz. Er fügt an, das Risiko fange schon beim Start an, da die Rakete explodieren könne. Üblicherweise haben Raketen eine hohe Erfolgsrate. Wenn man nun jedoch mit einem neuen Typen anfange, startet man bei Null und die ersten Versuche können schiefgehen. In Bezug auf die neue Messtechnik habe er aber keine grossen Bedenken.
 
@@ -50,7 +50,7 @@ Die erste Hürde, die es zu nehmen gilt, ist bereits das Auswahlverfahren, um ü
 
 
 
-#### Probleme der Weltraumforschung:
+#### Probleme der Weltraumforschung
 
 Häufige Fragen der Raumforschung sind natürlich auch die Umweltbelastung und die Verschmutzung des Alls durch Bruchstücke von Raketen und Satelliten. Zu diesen Problemen und den passenden Lösungsansätzen fügt Peter Wurz an, es sei klar, dass die Rakete am Start viel Treibstoff verbrauche. Dabei werden kurzzeitig mehrere hundert Tonnen Treibstoff verbrannt. Jedoch sei die Umweltbelastung von all den Schaulustigen, die zum Start hinfliegen oder hinfahren, zehnmal so gross. Somit sei der alltägliche Verbrauch mit Autos und Flugzeugen viel grösser als die wenigen Raketenstarts.
 
