@@ -27,9 +27,7 @@ Das NIM (Neutral and Ion Mass Spectrometer) ist eines der verbauten Instrumente,
 
 #### JUICE
 
-Linus Stöckli führt uns weiter durch den Gang. Er zeigt und erklärt auch neuere Projekte, wie etwa das Juice-Projekt. In der Ausstellung sind verschiedene Modelle des NIMs und weiterer Projekte zu sehen. Zudem wird in einem Video die Herstellung eines solchen Messinstrumentes veranschaulicht und das Vorangehen der Mission nähergebracht.
-
-Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwickeln aufgrund des knappen Platzes und der Gewichtvorgaben. Zudem müsse das Instrument sehr robust und geschützt vor hohen Vibrationen sein. Ebenso dürfe die Technik nicht durch kosmische Strahlung beeinflusst werden, was ihre Herstellung sehr teuer macht.
+Linus Stöckli führt uns weiter durch den Gang. Er zeigt und erklärt auch neuere Projekte, wie etwa das Juice-Projekt. In der Ausstellung sind verschiedene Modelle des NIMs und weiterer Projekte zu sehen. Zudem wird in einem Video die Herstellung eines solchen Messinstrumentes veranschaulicht und das Vorangehen der Mission nähergebracht. Linus Stöckli erklärt, es sei sehr wichtig, diese Instrumente kompakt zu entwickeln aufgrund des knappen Platzes und der Gewichtvorgaben. Zudem müsse das Instrument sehr robust und geschützt vor hohen Vibrationen sein. Ebenso dürfe die Technik nicht durch kosmische Strahlung beeinflusst werden, was ihre Herstellung sehr teuer macht.
 
 ![Modell des NIM ©️Mike Flückiger](microsoftteams-image-6-.png)
 
@@ -52,11 +50,7 @@ Die erste Hürde, die es zu nehmen gilt, ist bereits das Auswahlverfahren, um ü
 
 #### Probleme der Weltraumforschung
 
-Häufige Fragen der Raumforschung sind natürlich auch die Umweltbelastung und die Verschmutzung des Alls durch Bruchstücke von Raketen und Satelliten. Zu diesen Problemen und den passenden Lösungsansätzen fügt Peter Wurz an, es sei klar, dass die Rakete am Start viel Treibstoff verbrauche. Dabei werden kurzzeitig mehrere hundert Tonnen Treibstoff verbrannt. Jedoch sei die Umweltbelastung von all den Schaulustigen, die zum Start hinfliegen oder hinfahren, zehnmal so gross. Somit sei der alltägliche Verbrauch mit Autos und Flugzeugen viel grösser als die wenigen Raketenstarts.
-
-Zum Thema der Weltraumverschmutzung sagt Peter Wurz weiter, schlimmer seien die Bruchstücke der Raketen im erdnahen Weltraum. Er ergänzt, früher habe man sich gar keine Sorgen darüber gemacht, mittlerweile werde es schon langsam dicht. Falls man nun eine Rakete ins Weltall schicke, bestehe das Risiko, dass diese von den Bruchstücken getroffen werde. Da diese Bruchstücke mit einer hohen Geschwindigkeit umherfliegen, würde dies beträchtlichen Schaden an der Rakete hinterlassen.
-
-Zudem erklärt Peter Wurz, dass es die Schweizer Firma „Clear Space“ gebe, welche Teile aus ihrer Umlaufbahn um die Erde, Orbit, in die Atmosphäre transportieren, wo diese verglühen und als Staub auf die Erdoberfläche fallen. Eine andere Möglichkeit wäre, die Teile ins Weltall zu befördern und sie dem „nächsten Nachbarn“ zu übergeben.
+Häufige Fragen der Raumforschung sind natürlich auch die Umweltbelastung und die Verschmutzung des Alls durch Bruchstücke von Raketen und Satelliten. Zu diesen Problemen und den passenden Lösungsansätzen fügt Peter Wurz an, es sei klar, dass die Rakete am Start viel Treibstoff verbrauche. Dabei werden kurzzeitig mehrere hundert Tonnen Treibstoff verbrannt. Jedoch sei die Umweltbelastung von all den Schaulustigen, die zum Start hinfliegen oder hinfahren, zehnmal so gross. Somit sei der alltägliche Verbrauch mit Autos und Flugzeugen viel grösser als die wenigen Raketenstarts. Zum Thema der Weltraumverschmutzung sagt Peter Wurz weiter, schlimmer seien die Bruchstücke der Raketen im erdnahen Weltraum. Er ergänzt, früher habe man sich gar keine Sorgen darüber gemacht, mittlerweile werde es schon langsam dicht. Falls man nun eine Rakete ins Weltall schicke, bestehe das Risiko, dass diese von den Bruchstücken getroffen werde. Da diese Bruchstücke mit einer hohen Geschwindigkeit umherfliegen, würde dies beträchtlichen Schaden an der Rakete hinterlassen. Zudem erklärt Peter Wurz, dass es die Schweizer Firma „Clear Space“ gebe, welche Teile aus ihrer Umlaufbahn um die Erde, Orbit, in die Atmosphäre transportieren, wo diese verglühen und als Staub auf die Erdoberfläche fallen. Eine andere Möglichkeit wäre, die Teile ins Weltall zu befördern und sie dem „nächsten Nachbarn“ zu übergeben.
 
 
 
@@ -66,11 +60,7 @@ Zudem erklärt Peter Wurz, dass es die Schweizer Firma „Clear Space“ gebe, w
 
 #### Hoffnung auf Leben
 
-Die Suche nach Leben ist seit dem Beginn der Weltraumforschung eine herausfordernde Mission. Dabei braucht ein Planet bestimmte Eigenschaften, um dieses Leben, wenn auch nur einzellig, zu versorgen. Diese Eigenschaften sind sehr selten und wenn sie existieren, nicht zwingend für den Menschen geeignet. Zu der Frage, ob es ein zweites Zuhause für die Menschen geben könnte, antwortet Peter Wurz, wie bereits erwartet, mit Folgendem: «Ein
-
-zweites Zuhause ist völlig unrealistisch. Zumindest nicht in unserem Sonnensystem, weil die Erde tatsächlich bei vielen Faktoren mit weit grossem Abstand das Beste ist, was wir haben können.» Und ausserhalb unseres Sonnensystems ist ein Zuhause noch weniger denkbar, da die Distanzen, welche überwunden werden müssten, viel zu gross sind.
-
-Trotzdem wird nach Leben gesucht und gemäss Peter Wurz spricht man dabei von sehr kleinem einzelligem Leben, welches Rückstände auf dem Mars oder einem Mond, wie Europa, hätte hinterlassen können. Deshalb versucht man mit Bohrungen in Eis- oder Gesteinsschichten Rückstände aufzudecken und diese zu analysieren. Zudem verwendet man Teleskope, um weit entfernte Planeten zu erforschen. So erklärt Peter Wurz: „Mit dem Teleskop sieht man die äusserste Atmosphäre, wo man Spurenelemente in der Atmosphäre findet, also chemische Zusammensetzungen, die aussagen, ob es Leben gibt oder nicht.“
+Die Suche nach Leben ist seit dem Beginn der Weltraumforschung eine herausfordernde Mission. Dabei braucht ein Planet bestimmte Eigenschaften, um dieses Leben, wenn auch nur einzellig, zu versorgen. Diese Eigenschaften sind sehr selten und wenn sie existieren, nicht zwingend für den Menschen geeignet. Zu der Frage, ob es ein zweites Zuhause für die Menschen geben könnte, antwortet Peter Wurz, wie bereits erwartet, mit Folgendem: «Einzweites Zuhause ist völlig unrealistisch. Zumindest nicht in unserem Sonnensystem, weil die Erde tatsächlich bei vielen Faktoren mit weit grossem Abstand das Beste ist, was wir haben können.» Und ausserhalb unseres Sonnensystems ist ein Zuhause noch weniger denkbar, da die Distanzen, welche überwunden werden müssten, viel zu gross sind. Trotzdem wird nach Leben gesucht und gemäss Peter Wurz spricht man dabei von sehr kleinem einzelligem Leben, welches Rückstände auf dem Mars oder einem Mond, wie Europa, hätte hinterlassen können. Deshalb versucht man mit Bohrungen in Eis- oder Gesteinsschichten Rückstände aufzudecken und diese zu analysieren. Zudem verwendet man Teleskope, um weit entfernte Planeten zu erforschen. So erklärt Peter Wurz: „Mit dem Teleskop sieht man die äusserste Atmosphäre, wo man Spurenelemente in der Atmosphäre findet, also chemische Zusammensetzungen, die aussagen, ob es Leben gibt oder nicht.“
 
 {{<box>}}
 
@@ -85,9 +75,7 @@ Die Erforschung des Weltraums hat ihren Preis und muss finanziert werden. An der
 
 
 
-Die Raumfahrt wird uns und zukünftige Generationen weiter begleiten. Solange der Erfindergeist und die Begeisterung des Menschen für den Weltraum bestehen, werden auch weitere Erfolge erzielt werden. Die Beteiligung der Schweiz an der Raumfahrt ist auch schon für die Zukunft gesichert. Mit der Unterschrift von Guy Parmelin unter das Artemis-
-
-Abkommen verpflichtet sich die Schweiz mit 35 anderen Staaten an der friedlichen Erforschung des Weltraums. Somit wird die Arbeit des physikalischen Instituts auch in Zukunft relevant sein. Wie auch Peter Wurz erwähnte, ist die Weltraumforschung nicht unmittelbar wichtig für das alltägliche Leben, jedoch ist sie ein riesiger Entwicklungsschritt für den Menschen und sie hat eine grosse philosophische Bedeutung. Man kann also gespannt sein, was die Zukunft für Überraschungen bringen wird.
+Die Raumfahrt wird uns und zukünftige Generationen weiter begleiten. Solange der Erfindergeist und die Begeisterung des Menschen für den Weltraum bestehen, werden auch weitere Erfolge erzielt werden. Die Beteiligung der Schweiz an der Raumfahrt ist auch schon für die Zukunft gesichert. Mit der Unterschrift von Guy Parmelin unter das Artemis-Abkommen verpflichtet sich die Schweiz mit 35 anderen Staaten an der friedlichen Erforschung des Weltraums. Somit wird die Arbeit des physikalischen Instituts auch in Zukunft relevant sein. Wie auch Peter Wurz erwähnte, ist die Weltraumforschung nicht unmittelbar wichtig für das alltägliche Leben, jedoch ist sie ein riesiger Entwicklungsschritt für den Menschen und sie hat eine grosse philosophische Bedeutung. Man kann also gespannt sein, was die Zukunft für Überraschungen bringen wird.
 
 - - -
 
