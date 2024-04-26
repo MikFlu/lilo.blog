@@ -85,7 +85,9 @@ Abkommen verpflichtet sich die Schweiz mit 35 anderen Staaten an der friedlichen
 
 - - -
 
-Quellen: https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html
+Quellen: 
+
+https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html
 
 https://www.space.unibe.ch/about_us/personen/stoeckli_linus/index_eng.html
 
