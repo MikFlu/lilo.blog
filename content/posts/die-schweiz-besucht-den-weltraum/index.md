@@ -45,11 +45,11 @@ Das physikalische Institut der Universität Bern wird von Dr. Peter Wurz als Dir
 
 Die erste Hürde, die es zu nehmen gilt, ist bereits das Auswahlverfahren, um überhaupt an der Mission teilnehmen zu können. Dr. Wurz erklärt, es gebe in der Konkurrenz gegen andere Länder für die Teilnahme an Expeditionen keinen zweiten Platz. Entweder man sei dabei oder nicht. Deshalb müsse man sich durch Modelle und innovative Ideen bei der Raumfahrtagentur gut „verkaufen“.
 
-Infobox:
-
+{{<box>}}
 Das LIMS (Laser Ablations Ionisations Massen Spectrometer) ist ein Teil der CLPS-Missionen (Commercial Lunar Payload Services), welche von der NASA (National Aeronautics and Space Administration) geleitet werden und 2027 zum Mond fliegen sollen. Die CLPS-Missionen sind eine Reihe von Projekten, welche den Mond auf nützliche Stoffe in der
 
 Oberfläche untersuchen sollen. Zudem sollen die erste Frau und der erste dunkelhäutige Mann auf dem Mond landen.
+{{</box>}}
 
 #### Probleme der Weltraumforschung:
 
